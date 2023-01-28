@@ -1,0 +1,2 @@
+# -shopidied
+not shopify secerts 
